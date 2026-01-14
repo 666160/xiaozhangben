@@ -30,7 +30,7 @@ npm install
 npm run dev
 ```
 
-应用将在本地启动，通常是 http://localhost:3000 或 http://localhost:5173
+应用将在本地启动，终端会显示访问地址（通常是 `http://localhost:5173`）
 
 ### 构建生产版本
 
